@@ -13,6 +13,9 @@ Features
 5) Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
 
 Technologies Used
- HTML
- CSS
- JavaScript
+
+HTML
+
+CSS
+
+Javascript
